@@ -1,4 +1,4 @@
-package exercises.methods.sistemadepedidos;
+package br.com.marcus.exercises.poo.basic.sistemadepedidos;
 
 public class TestePedido {
     public static void main(String[] args) {

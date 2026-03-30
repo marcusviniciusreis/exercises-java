@@ -1,4 +1,4 @@
-package exercises.methods.sistemadepedidos;
+package br.com.marcus.exercises.poo.basic.sistemadepedidos;
 
 public class Pedido {
     public String nome;

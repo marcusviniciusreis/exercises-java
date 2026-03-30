@@ -1,4 +1,4 @@
-package exercises.methods.sistemadenotas;
+package br.com.marcus.exercises.poo.basic.sistemadenotas;
 
 public class AlunoTeste {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package exercises.methods.sistemadepersonagens;
+package br.com.marcus.exercises.poo.basic.sistemadepersonagens;
 
 public class Personagem {
     public String nome;

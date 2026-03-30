@@ -1,4 +1,4 @@
-package exercises.methods.sistemadepersonagens;
+package br.com.marcus.exercises.poo.basic.sistemadepersonagens;
 
 public class PersonagemTest {
     public static void main(String[] args) {

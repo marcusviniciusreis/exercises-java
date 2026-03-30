@@ -1,4 +1,4 @@
-package exercises.methods.contadeenergia;
+package br.com.marcus.exercises.poo.basic.contadeenergia;
 
 public class TesteConta {
     public static void main(String[] args) {

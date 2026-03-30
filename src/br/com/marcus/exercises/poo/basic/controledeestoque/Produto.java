@@ -1,4 +1,4 @@
-package exercises.methods.controledeestoque;
+package br.com.marcus.exercises.poo.basic.controledeestoque;
 
 public class Produto {
     public String nome;

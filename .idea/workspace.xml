@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="351ddfd0-b35d-46a0-91e4-748cb799e8eb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/br/com/marcus/exercises/poo/encapsulation/person/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/com/marcus/exercises/poo/encapsulation/person/test/PersonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/methods/contadeenergia/ContaEnergia.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/marcus/exercises/poo/basic/contadeenergia/ContaEnergia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/methods/contadeenergia/TesteConta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/marcus/exercises/poo/basic/contadeenergia/TesteConta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/methods/controledeestoque/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/marcus/exercises/poo/basic/controledeestoque/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/methods/controledeestoque/TesteProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/marcus/exercises/poo/basic/controledeestoque/TesteProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/methods/sistemadenotas/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/marcus/exercises/poo/basic/sistemadenotas/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/methods/sistemadenotas/AlunoTeste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/marcus/exercises/poo/basic/sistemadenotas/AlunoTeste.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/methods/sistemadepedidos/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/marcus/exercises/poo/basic/sistemadepedidos/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/methods/sistemadepedidos/TestePedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/marcus/exercises/poo/basic/sistemadepedidos/TestePedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/methods/sistemadepersonagens/Personagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/marcus/exercises/poo/basic/sistemadepersonagens/Personagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/methods/sistemadepersonagens/PersonagemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/marcus/exercises/poo/basic/sistemadepersonagens/PersonagemTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3BgOSEtyCGJIo76ZLzd0vCKiu4K" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.PersonTest.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="PersonTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.marcus.exercises.poo.encapsulation.person.test.PersonTest" />
+      <module name="exercises-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.marcus.exercises.poo.encapsulation.person.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PersonTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="351ddfd0-b35d-46a0-91e4-748cb799e8eb" name="Changes" comment="" />
+      <created>1774907245779</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1774907245779</updated>
+    </task>
+    <servers />
+  </component>
+</project>
